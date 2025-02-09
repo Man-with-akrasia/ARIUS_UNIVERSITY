@@ -33,16 +33,7 @@ This is a simple project to manage courses, students, faculty, and grades. It al
 - **Grades:**
   - `/grades` → Add or get grades
 
-## Development Timeline
 
-| Phase              | Timeframe  |
-|--------------------|-----------|
-| Planning          | 2 days     |
-| Database Design   | 2 days     |
-| Backend Coding   | 4 days     |
-| Frontend Coding  | 4 days     |
-| Testing & Fixing | 2 days     |
-| Deployment       | 2 days     |
 ```
 
 ## Development Guidelines
