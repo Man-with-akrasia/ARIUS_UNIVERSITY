@@ -1,0 +1,48 @@
+# GitHub Project To-Do List
+
+This file serves as a simple to-do list for tracking project tasks.
+
+## To-Do List
+
+### Course Management
+- [ ] Add course functionality
+- [ ] Edit course functionality
+- [ ] Delete course functionality
+
+### Student Management
+- [ ] Student enrollment
+- [ ] Manage student records
+- [ ] Track student grades
+
+### Faculty Management
+- [ ] Faculty assignments system
+- [ ] Faculty course load management
+
+### Authentication System
+- [ ] User registration
+- [ ] User login/logout
+- [ ] Role-based access control
+
+### Grade Recording
+- [ ] Grade entry system
+- [ ] Grade calculation
+- [ ] Grade summary reports
+
+### Reporting System
+- [ ] Student grades reports
+- [ ] Class lists reports
+- [ ] Faculty load reports
+
+## Development Timeline (2 Weeks)
+
+| Phase              | Timeframe  |
+|--------------------|-----------|
+| Planning          | 2 days     |
+| Database Design   | 2 days     |
+| Backend Coding    | 4 days     |
+| Frontend Coding   | 4 days     |
+| Testing & Fixing  | 2 days     |
+| Deployment        | 2 days     |
+
+
+
