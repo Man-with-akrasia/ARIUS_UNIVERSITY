@@ -1,0 +1,59 @@
+# Arius University Course Management System
+
+## Overview
+This is a simple project to manage courses, students, faculty, and grades. It also has a login system.
+
+## Requirements
+- Python 3.8 or newer
+- Django for backend
+- SQLite  for database
+- React.js for frontend (optional)
+
+## Architecture
+- **Frontend:** React.js
+- **Backend:**  Django API
+- **Database:** SQLite 
+- **Auth:** Uses JWT for login
+
+## Database Tables
+- **Users:** Stores user login info
+- **Courses:** Stores course details
+- **Students:** Stores student details
+- **Faculty:** Stores faculty details
+- **Grades:** Stores student grades
+
+## API Endpoints
+- **Auth:**
+  - `/auth/register` → Register new users
+  - `/auth/login` → Login users
+- **Courses:**
+  - `/courses` → Get, add, or delete courses
+- **Students:**
+  - `/students` → Get or add students
+- **Grades:**
+  - `/grades` → Add or get grades
+
+## Development Timeline
+
+| Phase              | Timeframe  |
+|--------------------|-----------|
+| Planning          | 2 days     |
+| Database Design   | 2 days     |
+| Backend Coding   | 4 days     |
+| Frontend Coding  | 4 days     |
+| Testing & Fixing | 2 days     |
+| Deployment       | 2 days     |
+```
+
+## Development Guidelines
+- Use Git for tracking changes
+- Write tests to check your code
+- Add comments so others can understand
+
+## Contributing
+If you want to help:
+1. Fork this repo
+2. Make changes in a new branch
+3. Commit and push
+4. Make a pull request
+
