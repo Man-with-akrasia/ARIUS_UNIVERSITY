@@ -24,14 +24,14 @@ This file serves as a simple to-do list for tracking project tasks.
 - [x] Role-based access control
 
 ### Grade Recording
-- [] Grade entry system
-- [] Grade calculation
-- [] Grade summary reports
+- [x] Grade entry system
+- [x] Grade calculation
+- [x] Grade summary reports
 
 ### Reporting System
-- [] Student grades reports
-- [] Class lists reports
-- [] Faculty load reports
+- [x] Student grades reports
+- [x] Class lists reports
+- [x] Faculty load reports
 
 ## Development Timeline (2 Weeks)
 
@@ -44,5 +44,5 @@ This file serves as a simple to-do list for tracking project tasks.
 | Testing & Fixing  | 2 days     |
 | Deployment        | 2 days     |
 
-This file can be used in the GitHub repository to track development progress.
+
 
