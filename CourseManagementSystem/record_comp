@@ -1,0 +1,15 @@
+class GradeManagement:
+    def __init__(self):
+        self.grades = {}
+
+    def record_grade(self, student_id, course_id, grade):
+        if student_id not in self.grades:
+            self.grades[student_id] = {}
+        self.grades[student_id][course_id] = grade
+        return f"Grade recorded for Student {student_id} in Course {course_id}."
+
+    def compute_gpa(self, student_id):
+        if student_id not in self.grades:
+            return "No grades recorded."
+        grades = list(self.grades[student_id].values())
+        return sum(grades) / len(grades) if grades else 0
