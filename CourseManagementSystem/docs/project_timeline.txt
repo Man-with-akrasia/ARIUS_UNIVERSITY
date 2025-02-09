@@ -10,13 +10,13 @@ This file serves as a simple to-do list for tracking project tasks.
 - [x] Delete course functionality
 
 ### Student Management
-- [] Student enrollment
-- [] Manage student records
-- [] Track student grades
+- [x] Student enrollment
+- [x] Manage student records
+- [x] Track student grades
 
 ### Faculty Management
-- [] Faculty assignments system
-- [] Faculty course load management
+- [x] Faculty assignments system
+- [x] Faculty course load management
 
 ### Authentication System
 - [] User registration
