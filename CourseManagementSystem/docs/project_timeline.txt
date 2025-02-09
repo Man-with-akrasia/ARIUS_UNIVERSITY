@@ -19,9 +19,9 @@ This file serves as a simple to-do list for tracking project tasks.
 - [x] Faculty course load management
 
 ### Authentication System
-- [] User registration
-- [] User login/logout
-- [] Role-based access control
+- [x] User registration
+- [x] User login/logout
+- [x] Role-based access control
 
 ### Grade Recording
 - [] Grade entry system
