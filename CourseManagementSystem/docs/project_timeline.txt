@@ -5,33 +5,33 @@ This file serves as a simple to-do list for tracking project tasks.
 ## To-Do List
 
 ### Course Management
-- [ ] Add course functionality
-- [ ] Edit course functionality
-- [ ] Delete course functionality
+- [x] Add course functionality
+- [x] Edit course functionality
+- [x] Delete course functionality
 
 ### Student Management
-- [ ] Student enrollment
-- [ ] Manage student records
-- [ ] Track student grades
+- [] Student enrollment
+- [] Manage student records
+- [] Track student grades
 
 ### Faculty Management
-- [ ] Faculty assignments system
-- [ ] Faculty course load management
+- [] Faculty assignments system
+- [] Faculty course load management
 
 ### Authentication System
-- [ ] User registration
-- [ ] User login/logout
-- [ ] Role-based access control
+- [] User registration
+- [] User login/logout
+- [] Role-based access control
 
 ### Grade Recording
-- [ ] Grade entry system
-- [ ] Grade calculation
-- [ ] Grade summary reports
+- [] Grade entry system
+- [] Grade calculation
+- [] Grade summary reports
 
 ### Reporting System
-- [ ] Student grades reports
-- [ ] Class lists reports
-- [ ] Faculty load reports
+- [] Student grades reports
+- [] Class lists reports
+- [] Faculty load reports
 
 ## Development Timeline (2 Weeks)
 
@@ -44,5 +44,5 @@ This file serves as a simple to-do list for tracking project tasks.
 | Testing & Fixing  | 2 days     |
 | Deployment        | 2 days     |
 
-
+This file can be used in the GitHub repository to track development progress.
 
