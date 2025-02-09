@@ -1,0 +1,10 @@
+class CourseManagement:
+    def __init__(self):
+        self.courses = {}
+
+    def add_course(self, course_id, course_name):
+        self.courses[course_id] = course_name
+        return f"Course {course_name} added."
+
+    def list_courses(self):
+        return self.courses
