@@ -1,0 +1,10 @@
+class FacultyManagement:
+    def __init__(self):
+        self.faculty = {}
+
+    def add_faculty(self, faculty_id, name):
+        self.faculty[faculty_id] = name
+        return f"Faculty {name} added."
+
+    def list_faculty(self):
+        return self.faculty
