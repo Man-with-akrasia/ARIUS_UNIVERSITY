@@ -1,0 +1,9 @@
+class ReportingSystem:
+    def __init__(self, student_mgmt, grade_mgmt):
+        self.student_mgmt = student_mgmt
+        self.grade_mgmt = grade_mgmt
+
+    def generate_report(self, student_id):
+        student_name = self.student_mgmt.students.get(student_id, "Unknown Student")
+        gpa = self.grade_mgmt.compute_gpa(student_id)
+        return f"Report for {student_name}: GPA = {gpa:.2f}"
